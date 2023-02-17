@@ -2,4 +2,8 @@
 **/*.ipynb_checkpoints/
 **/__pycache__
 node_modules/
+Employee.csv
+Orders.csv
+Orders.zip
+Temp_States.csv
 
